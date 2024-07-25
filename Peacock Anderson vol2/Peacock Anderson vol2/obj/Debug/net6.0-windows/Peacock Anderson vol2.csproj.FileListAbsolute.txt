@@ -1,0 +1,21 @@
+C:\Users\鯨井　淳\source\repos\Peacock Anderson vol2\Peacock Anderson vol2\bin\Debug\net6.0-windows\Peacock Anderson vol2.exe
+C:\Users\鯨井　淳\source\repos\Peacock Anderson vol2\Peacock Anderson vol2\bin\Debug\net6.0-windows\Peacock Anderson vol2.deps.json
+C:\Users\鯨井　淳\source\repos\Peacock Anderson vol2\Peacock Anderson vol2\bin\Debug\net6.0-windows\Peacock Anderson vol2.runtimeconfig.json
+C:\Users\鯨井　淳\source\repos\Peacock Anderson vol2\Peacock Anderson vol2\bin\Debug\net6.0-windows\Peacock Anderson vol2.dll
+C:\Users\鯨井　淳\source\repos\Peacock Anderson vol2\Peacock Anderson vol2\bin\Debug\net6.0-windows\Peacock Anderson vol2.pdb
+C:\Users\鯨井　淳\source\repos\Peacock Anderson vol2\Peacock Anderson vol2\obj\Debug\net6.0-windows\Peacock Anderson vol2.csproj.AssemblyReference.cache
+C:\Users\鯨井　淳\source\repos\Peacock Anderson vol2\Peacock Anderson vol2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\鯨井　淳\source\repos\Peacock Anderson vol2\Peacock Anderson vol2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\鯨井　淳\source\repos\Peacock Anderson vol2\Peacock Anderson vol2\obj\Debug\net6.0-windows\Peacock Anderson vol2_MarkupCompile.cache
+C:\Users\鯨井　淳\source\repos\Peacock Anderson vol2\Peacock Anderson vol2\obj\Debug\net6.0-windows\Peacock Anderson vol2_MarkupCompile.lref
+C:\Users\鯨井　淳\source\repos\Peacock Anderson vol2\Peacock Anderson vol2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\鯨井　淳\source\repos\Peacock Anderson vol2\Peacock Anderson vol2\obj\Debug\net6.0-windows\Peacock Anderson vol2.g.resources
+C:\Users\鯨井　淳\source\repos\Peacock Anderson vol2\Peacock Anderson vol2\obj\Debug\net6.0-windows\Peacock Anderson vol2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\鯨井　淳\source\repos\Peacock Anderson vol2\Peacock Anderson vol2\obj\Debug\net6.0-windows\Peacock Anderson vol2.AssemblyInfoInputs.cache
+C:\Users\鯨井　淳\source\repos\Peacock Anderson vol2\Peacock Anderson vol2\obj\Debug\net6.0-windows\Peacock Anderson vol2.AssemblyInfo.cs
+C:\Users\鯨井　淳\source\repos\Peacock Anderson vol2\Peacock Anderson vol2\obj\Debug\net6.0-windows\Peacock Anderson vol2.csproj.CoreCompileInputs.cache
+C:\Users\鯨井　淳\source\repos\Peacock Anderson vol2\Peacock Anderson vol2\obj\Debug\net6.0-windows\Peacock Anderson vol2.dll
+C:\Users\鯨井　淳\source\repos\Peacock Anderson vol2\Peacock Anderson vol2\obj\Debug\net6.0-windows\refint\Peacock Anderson vol2.dll
+C:\Users\鯨井　淳\source\repos\Peacock Anderson vol2\Peacock Anderson vol2\obj\Debug\net6.0-windows\Peacock Anderson vol2.pdb
+C:\Users\鯨井　淳\source\repos\Peacock Anderson vol2\Peacock Anderson vol2\obj\Debug\net6.0-windows\Peacock Anderson vol2.genruntimeconfig.cache
+C:\Users\鯨井　淳\source\repos\Peacock Anderson vol2\Peacock Anderson vol2\obj\Debug\net6.0-windows\ref\Peacock Anderson vol2.dll
