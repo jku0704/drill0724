@@ -1,0 +1,21 @@
+C:\Users\鯨井　淳\source\repos\Peacock ANderson vol3 Grid\Peacock ANderson vol3 Grid\bin\Debug\net6.0-windows\Peacock ANderson vol3 Grid.exe
+C:\Users\鯨井　淳\source\repos\Peacock ANderson vol3 Grid\Peacock ANderson vol3 Grid\bin\Debug\net6.0-windows\Peacock ANderson vol3 Grid.deps.json
+C:\Users\鯨井　淳\source\repos\Peacock ANderson vol3 Grid\Peacock ANderson vol3 Grid\bin\Debug\net6.0-windows\Peacock ANderson vol3 Grid.runtimeconfig.json
+C:\Users\鯨井　淳\source\repos\Peacock ANderson vol3 Grid\Peacock ANderson vol3 Grid\bin\Debug\net6.0-windows\Peacock ANderson vol3 Grid.dll
+C:\Users\鯨井　淳\source\repos\Peacock ANderson vol3 Grid\Peacock ANderson vol3 Grid\bin\Debug\net6.0-windows\Peacock ANderson vol3 Grid.pdb
+C:\Users\鯨井　淳\source\repos\Peacock ANderson vol3 Grid\Peacock ANderson vol3 Grid\obj\Debug\net6.0-windows\Peacock ANderson vol3 Grid.csproj.AssemblyReference.cache
+C:\Users\鯨井　淳\source\repos\Peacock ANderson vol3 Grid\Peacock ANderson vol3 Grid\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\鯨井　淳\source\repos\Peacock ANderson vol3 Grid\Peacock ANderson vol3 Grid\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\鯨井　淳\source\repos\Peacock ANderson vol3 Grid\Peacock ANderson vol3 Grid\obj\Debug\net6.0-windows\Peacock ANderson vol3 Grid_MarkupCompile.cache
+C:\Users\鯨井　淳\source\repos\Peacock ANderson vol3 Grid\Peacock ANderson vol3 Grid\obj\Debug\net6.0-windows\Peacock ANderson vol3 Grid_MarkupCompile.lref
+C:\Users\鯨井　淳\source\repos\Peacock ANderson vol3 Grid\Peacock ANderson vol3 Grid\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\鯨井　淳\source\repos\Peacock ANderson vol3 Grid\Peacock ANderson vol3 Grid\obj\Debug\net6.0-windows\Peacock ANderson vol3 Grid.g.resources
+C:\Users\鯨井　淳\source\repos\Peacock ANderson vol3 Grid\Peacock ANderson vol3 Grid\obj\Debug\net6.0-windows\Peacock ANderson vol3 Grid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\鯨井　淳\source\repos\Peacock ANderson vol3 Grid\Peacock ANderson vol3 Grid\obj\Debug\net6.0-windows\Peacock ANderson vol3 Grid.AssemblyInfoInputs.cache
+C:\Users\鯨井　淳\source\repos\Peacock ANderson vol3 Grid\Peacock ANderson vol3 Grid\obj\Debug\net6.0-windows\Peacock ANderson vol3 Grid.AssemblyInfo.cs
+C:\Users\鯨井　淳\source\repos\Peacock ANderson vol3 Grid\Peacock ANderson vol3 Grid\obj\Debug\net6.0-windows\Peacock ANderson vol3 Grid.csproj.CoreCompileInputs.cache
+C:\Users\鯨井　淳\source\repos\Peacock ANderson vol3 Grid\Peacock ANderson vol3 Grid\obj\Debug\net6.0-windows\Peacock ANderson vol3 Grid.dll
+C:\Users\鯨井　淳\source\repos\Peacock ANderson vol3 Grid\Peacock ANderson vol3 Grid\obj\Debug\net6.0-windows\refint\Peacock ANderson vol3 Grid.dll
+C:\Users\鯨井　淳\source\repos\Peacock ANderson vol3 Grid\Peacock ANderson vol3 Grid\obj\Debug\net6.0-windows\Peacock ANderson vol3 Grid.pdb
+C:\Users\鯨井　淳\source\repos\Peacock ANderson vol3 Grid\Peacock ANderson vol3 Grid\obj\Debug\net6.0-windows\Peacock ANderson vol3 Grid.genruntimeconfig.cache
+C:\Users\鯨井　淳\source\repos\Peacock ANderson vol3 Grid\Peacock ANderson vol3 Grid\obj\Debug\net6.0-windows\ref\Peacock ANderson vol3 Grid.dll

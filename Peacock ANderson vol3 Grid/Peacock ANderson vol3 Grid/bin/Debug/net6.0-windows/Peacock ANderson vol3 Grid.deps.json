@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Peacock ANderson vol3 Grid/1.0.0": {
+        "runtime": {
+          "Peacock ANderson vol3 Grid.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Peacock ANderson vol3 Grid/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
